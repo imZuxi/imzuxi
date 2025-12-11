@@ -6,7 +6,7 @@
 
 * 👂 `My name is`: **Zuxi**,
 * 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **21 years old**,
+* ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **Rust**,
 * 💻 `Favorite lang`: **C# & JavaScript**  
 
