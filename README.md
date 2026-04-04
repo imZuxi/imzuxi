@@ -45,12 +45,12 @@
 
 <h2 align="center">☕ Statistics</h2>
 
-<p align="center">
+<!--<p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imzuxi&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imzuxi&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats-xi-ivory.vercel.app?user=imzuxi&theme=material-palenight&hide_border=true&background=FFFFFF00">
-</p>
-
+</p>-->
+<script> </script>
 <h2 align="center">Connect With Me</h2>
 <p align="center">
 <a href="https://twitter.com/imzuxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imzuxi" height="30" width="40" /></a>
