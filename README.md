@@ -64,4 +64,5 @@
   </p>
 </div>
 
-
+<h2 align="center">AI Usage Note</h2>
+I use Claude as a development assistant for tasks such as commit messages, Markdown documentation, rapid prototyping, and other repetitive workflows. While AI helps improve productivity, the architecture, implementation, and final decisions for my projects remain my own.
